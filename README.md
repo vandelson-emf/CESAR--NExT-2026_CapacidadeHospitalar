@@ -153,7 +153,7 @@ As dependências Python estão especificadas em `requirements.txt`.
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/Deangellisberg/capacidade-hospitalar-next.git
+git clone https://github.com/vandelson-emf/CESAR--NExT-2026_CapacidadeHospitalar
 cd capacidade-hospitalar-next
 
 # 2. Crie e ative o ambiente virtual (Python 3.13 especificamente)
